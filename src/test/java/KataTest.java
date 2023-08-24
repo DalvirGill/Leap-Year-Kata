@@ -6,7 +6,7 @@ import static org.junit.jupiter.api.Assertions.*;
 
 public class KataTest {
     @Test
-    public void IsLeapYearShouldReturnFalseFor1967() {
-        assertFalse(LeapYear.IsLeapYear(1967));
+    public void IsLeapYearShouldReturnFalseFor1997() {
+        assertFalse(LeapYear.IsLeapYear(1997));
     }
 }
